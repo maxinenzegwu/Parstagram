@@ -28,13 +28,10 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+![App Demo Link](https://github.com/maxinenzegwu/Parstagram/raw/master/Kapture%202020-07-10%20at%2021.26.12.gif)
 
 ## Credits
 
-List an 3rd party libraries, icons, graphics, or other assets you used in your app.
 
 - [Android Async Http Client](http://loopj.com/android-async-http/) - networking library
 
