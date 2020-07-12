@@ -29,6 +29,7 @@ The following **stretch** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![App Demo Link](https://github.com/maxinenzegwu/Parstagram/raw/master/Kapture%202020-07-10%20at%2021.26.12.gif)
+![Persistence Demo](https://github.com/maxinenzegwu/Parstagram/raw/master/Kapture%202020-07-11%20at%2021.56.53.gif)
 
 ## Credits
 
